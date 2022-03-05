@@ -1,0 +1,10 @@
+.alignleft {
+  float: left;
+}
+.alignright {
+  float: right;
+}
+
+.go-btn {
+  margin-left: 3px;
+}
